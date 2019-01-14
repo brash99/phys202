@@ -1,4 +1,4 @@
-# phys202
+# Physics 202 - Spring 2019
 Python codes and notebooks for Physics 202
 
 basic.py / basic.ipynb
