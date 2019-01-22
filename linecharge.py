@@ -1,15 +1,19 @@
 import math
 import matplotlib.pyplot as plt
 
+nsteps = 1000
+amin = 2.4
+amax = 20.0
+
 ke = 8.99E+09
 Q = 8.4E-06
 L = 1.9
 
-pdiff = [0 for i in range(0,1000)]
-a = [0 for i in range(0,1000)]
+pdiff = [0 for i in range(0,nsteps)]
+a = [0 for i in range(0,nsteps)]
 
-for i in range(0,1000):
-    a[i] = 2.4+i*0.1
+for i in range(0,nsteps):
+    a[i] = amin+i*(amax-amin)/(nsteps-1)
 
     E_exact = ke*Q/(a[i]*(a[i]+L))
     E_pt_charge = ke*Q/((a[i]+L/2)*(a[i]+L/2))

@@ -1,18 +1,21 @@
-import numpy as np
 import math
 import matplotlib.pyplot as plt
+
+nsteps = 1000
+amax = 10.0
 
 ke = 8.99E+09
 q1 = 5.8E-06
 q2 = 16.8E-06
+amin = 1.0
 
 l1 = 1.0
 l2 = 1.0
-pdiff = [0 for i in range(0,1000)]
-a = [0 for i in range(0,1000)]
+pdiff = [0 for i in range(0,nsteps)]
+a = [0 for i in range(0,nsteps)]
 
-for i in range(0,1000):
-    a[i] = 1.0+i*0.1
+for i in range(0,nsteps):
+    a[i] = amin+i*(amax-amin)/(nsteps-1)
 
     fraction = (a[i]+l1)*(a[i]+l2)/((a[i])*(a[i]+l1+l2))
     f12 = ke*q1*q2*math.log(fraction)/(l1*l2)
@@ -29,8 +32,8 @@ ax1.set_title("Point Charge Approximation")
 ax1.set_xlabel('Distance (m)')
 ax1.set_ylabel('Fractional Difference')
 ax1.grid(True)
-ax1.set_yscale("log",nonposy='clip')
-ax1.set_xscale("log",nonposx='clip')
+#ax1.set_yscale("log",nonposy='clip')
+#ax1.set_xscale("log",nonposx='clip')
 
 ax1.scatter(a,pdiff)
 
