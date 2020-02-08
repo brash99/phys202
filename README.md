@@ -17,6 +17,10 @@ charge_splitting.py / charge_splitting.ipynb
 
 - Expert TA Assignment 1 Problem 7:  For a given charge, Qtotal,solve for way of splitting this charge between two point charges, q1 and q2, so as to maximize the electric force. 
 
-linecharge.py / linecharge.ipynb
+linecharge.py / linecharge.ipynb / linechargeintegration.py / linechargeintegration.ipynb
 
 - Expert TA Assignment 2 Problem 7:  A given amount of charge, Q, is distributed evenly over a rod of length, L.  Calculate the total electric field at a point that is a distance, a, from one end of the rod, as a funtion of a.  Compare this to the approximate value calculated by assuming that the charge is a point charge located at the center of the rod.
+
+ramanunjan*.py / ramanujan*.ipynb
+
+- Investigation of Ramanujan's 1914 formula for caluculating pi (for Pi Day 2019). 
