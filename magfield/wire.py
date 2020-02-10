@@ -155,7 +155,7 @@ class Wire:
         if self.path is not None:
             #print(self.path)
             self.path += np.array(xyz)
-            print(self.path)
+            #print(self.path)
         return self
 
     def Rotate(self, axis=(1,0,0), deg=0):
