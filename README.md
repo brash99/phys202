@@ -1,4 +1,12 @@
-# Physics 202 - Spring 2024
+# Physics 202 - Spring 2025
+PHYS 202 at Christopher Newport University - University Physics II
+
+
+WebAssign Class Key:
+
+cnu 0749 7897
+
+
 Python codes and notebooks for Physics 202
 
 basic.py / basic.ipynb
