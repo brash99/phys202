@@ -1,5 +1,5 @@
 # Physics 202 - Spring 2025
-##Christopher Newport University - University Physics II
+## Christopher Newport University - University Physics II
 
 
 WebAssign Class Key:
