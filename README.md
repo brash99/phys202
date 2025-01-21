@@ -8,7 +8,7 @@ cnu 0749 7897
 ---------------------------
 
 
-Python codes and notebooks for Physics 202
+## Example Python codes and notebooks
 
 basic_fit.ipynb
 
