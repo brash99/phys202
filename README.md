@@ -1,19 +1,20 @@
 # Physics 202 - Spring 2025
 ## Christopher Newport University - University Physics II
 
-
+i--------------------------
 WebAssign Class Key:
 
 cnu 0749 7897
+---------------------------
 
 
 Python codes and notebooks for Physics 202
 
-basic.py / basic.ipynb
+basic_fit.ipynb
 
 - Read data (in x,y format) from a data file and plot as a scatter plot.
 
-basic_fit.py / basic_fit.ipynb
+basic_fit.ipynb
 
 - Read data (in x,y format) from a file, fit with a user-defined function, and display fit parameters with uncertainties on a graph.
 
