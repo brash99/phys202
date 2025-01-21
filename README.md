@@ -11,6 +11,23 @@ Textbook:
 University Physics – Volume 2 – Chapters 5-16,  OpenStax  
 http://www.cnx.org/
 
+Course Information:
+---------------------------
+Dr. Edward J. Brash
+Office: Luter Hall 304
+Class Time:  TR 3:00pm-4:15pm in Luter 322
+Office Hours: TR 2:00pm-3:00pm, and by appointment online.
+
+Course Goals:
+---------------------------
+- To learn the fundamental principles and theories of electromagnetism and   electromagnetic phenomena.
+
+- To apply these fundamental principles and theories to solve problems.
+
+- To gain a broad understanding and appreciation of the intellectual
+activity that characterizes the history of physics.
+
+
 
 
 Example Python codes and notebooks
