@@ -28,8 +28,20 @@ Course Goals:
 - To gain a broad understanding and appreciation of the intellectual
 activity that characterizes the history of physics.
 
-
-
+Physics Topics:
+---------------------------
+- Gravity
+- Electric Charges and Fields
+- Gauss’s Law
+- Electric Potential
+- Capacitance
+- Current and Resistance
+- Direct-Current Circuits
+- Magnetic Forces and Fields
+- Electromagnetic Induction
+- Inductance
+- Alternating-Current Circuits
+- Electromagnetic Waves
 
 Example Python codes and notebooks
 ---------------------------
