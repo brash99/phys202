@@ -1,14 +1,16 @@
 # Physics 202 - Spring 2025
-## Christopher Newport University - University Physics II
-
+Christopher Newport University - University Physics II
 ---------------------------
+
 WebAssign Class Key:
+---------------------------
 
 cnu 0749 7897
 ---------------------------
 
 
-## Example Python codes and notebooks
+Example Python codes and notebooks
+---------------------------
 
 basic_fit.ipynb
 
