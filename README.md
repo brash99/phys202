@@ -14,8 +14,11 @@ http://www.cnx.org/
 Course Information:
 ---------------------------
 Dr. Edward J. Brash
+
 Office: Luter Hall 304
+
 Class Time:  TR 3:00pm-4:15pm in Luter 322
+
 Office Hours: TR 2:00pm-3:00pm, and by appointment online.
 
 Course Goals:
