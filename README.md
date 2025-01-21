@@ -4,9 +4,13 @@ Christopher Newport University - University Physics II
 
 WebAssign Class Key:
 ---------------------------
-
 cnu 0749 7897
+
+Textbook:
 ---------------------------
+University Physics – Volume 2 – Chapters 5-16,  OpenStax  
+http://www.cnx.org/
+
 
 
 Example Python codes and notebooks
