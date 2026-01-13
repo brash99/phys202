@@ -2,7 +2,7 @@
 
 WebAssign Class Key:
 ---------------------------
-cnu 0749 7897
+cnu 3504 6619
 
 Textbook:
 ---------------------------
@@ -15,7 +15,7 @@ Dr. Edward J. Brash
 
 Office: Luter Hall 304
 
-Class Time:  TR 3:00pm-4:15pm in Luter 322
+Class Time:  TR 3:00pm-4:15pm
 
 Office Hours: TR 2:00pm-3:00pm, and by appointment online.
 
